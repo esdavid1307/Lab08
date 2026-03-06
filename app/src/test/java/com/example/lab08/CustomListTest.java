@@ -11,7 +11,7 @@ public class CustomListTest {
         City calgary = new City("Calgary", "AB");
 
         list.addCity(calgary);
-
+//test
         assertTrue(list.hasCity(calgary));
     }
 }
